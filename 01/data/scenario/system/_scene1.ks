@@ -1,6 +1,6 @@
 [preload  storage="./data/bgimage/BG/ookawaDSC00014_TP_V.jpg"  ]
 [preload  storage="./data/fgimage/chara/1/01.png"  ]
-[preload  storage="./data/fgimage/chara/2/02.png"  ]
+[preload  storage="./data/fgimage/chara/2/05.png"  ]
 [preload  storage="./data/fgimage/chara/1/00.png"  ]
 [preload  storage="./data/fgimage/chara/1/03.png"  ]
 [preload  storage="./data/fgimage/chara/3/01.png"  ]

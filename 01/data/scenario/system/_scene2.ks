@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/BG/PAK853_kuukounoyousu14055811_TP_V.jpg"  ]
+[preload  storage="./data/fgimage/chara/4/02.png"  ]
+[preload  storage="./data/fgimage/chara/3/02.png"  ]
+[preload  storage="./data/bgimage/BG/UNI18623kukoDSC00129_TP_V.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/02.png"  ]
+[return]

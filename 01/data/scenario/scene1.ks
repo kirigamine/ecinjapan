@@ -34,12 +34,12 @@
 
 [tb_hide_message_window  ]
 [chara_hide_all  time="500"  wait="true"  ]
-[chara_show  name="ヨナタン"  time="300"  wait="true"  storage="chara/2/00.png"  width="400"  height="533"  ]
+[chara_show  name="ヨナタン"  time="300"  wait="true"  storage="chara/2/04.png"  width="400"  height="533"  ]
 [chara_show  name="ダーヴィド"  time="300"  wait="true"  storage="chara/1/00.png"  width="400"  height="533"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #ヨナタン
-ダーヴィドさん、そろそろですかね[p]
+ダーヴィドさん、そろそろですかね。[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
@@ -60,7 +60,7 @@
 どうだい、君の仕事が終わったらディナーでも……[p]
 [_tb_end_text]
 
-[chara_mod  name="ヨナタン"  time="600"  cross="true"  storage="chara/2/02.png"  ]
+[chara_mod  name="ヨナタン"  time="600"  cross="true"  storage="chara/2/05.png"  ]
 [quake  time="300"  count="3"  hmax="10"  wait="false"  ]
 [tb_start_text mode=1 ]
 #ヨナタン
@@ -105,7 +105,7 @@
 おい、着くぞ。[p]
 [_tb_end_text]
 
-[chara_show  name="ヨナタン"  time="1000"  wait="true"  storage="chara/2/00.png"  width="400"  height="533"  ]
+[chara_show  name="ヨナタン"  time="1000"  wait="true"  storage="chara/2/04.png"  width="400"  height="533"  ]
 [tb_start_text mode=1 ]
 #ヨナタン
 オレ、日本は初めてなんですよ。無事に仕事できればいいんすけど。[p]
@@ -123,13 +123,7 @@
 ……ま、俺と紅月を呼んでいるあたり、タダごとじゃねえのは察せると思うけどな。[p]
 [_tb_end_text]
 
-[tb_start_text mode=1 ]
-#
-[_tb_end_text]
-
+[tb_hide_message_window  ]
 [chara_hide_all  time="1000"  wait="true"  ]
-[tb_start_text mode=1 ]
-つづく[p]
-[_tb_end_text]
-
+[jump  storage="scene2.ks"  target=""  cond=""  ]
 [s  ]
