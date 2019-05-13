@@ -1,4 +1,4 @@
-;[_tb_system_call storage=system/_scene1.ks] 
+[_tb_system_call storage=system/_scene1.ks]
 
 [cm  ]
 [bg  storage="BG/ookawaDSC00014_TP_V.jpg"  time="1000"  cross="false"  ]
