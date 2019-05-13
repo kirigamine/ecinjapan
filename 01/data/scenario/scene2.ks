@@ -1,4 +1,4 @@
-/*[_tb_system_call storage=system/_scene2.ks]*/
+;[_tb_system_call storage=system/_scene2.ks]
 
 [tb_start_text mode=1 ]
 #
