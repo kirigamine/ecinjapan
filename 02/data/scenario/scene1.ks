@@ -140,7 +140,7 @@
 [tb_start_text mode=1 ]
 "エクレール"の一員であることを。[p]
 #
-つづく
+つづく……[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
