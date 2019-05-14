@@ -139,6 +139,8 @@
 [chara_mod  name="紅月"  time="600"  cross="true"  storage="chara/4/02.png"  ]
 [tb_start_text mode=1 ]
 "エクレール"の一員であることを。[p]
+#
+つづく
 [_tb_end_text]
 
 [tb_hide_message_window  ]
