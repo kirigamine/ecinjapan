@@ -1,0 +1,5 @@
+[preload  storage="./data/fgimage/chara/3/01.png"  ]
+[preload  storage="./data/fgimage/chara/3/02.png"  ]
+[preload  storage="./data/fgimage/chara/3/04.png"  ]
+[preload  storage="./data/fgimage/chara/3/03.png"  ]
+[return]
