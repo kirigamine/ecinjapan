@@ -113,14 +113,16 @@
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [bg  time="1000"  method="crossfade"  storage="BG/TSU413002_TP_V.jpg"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
+#[tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#
+
+
 アメリカ、某所……[p]
 [_tb_end_text]
 
 [chara_show  name="エルネスト"  time="1000"  wait="true"  storage="chara/7/01.png"  width="400"  height="533"  left="67"  top="105"  reflect="false"  ]
 [chara_show  name="ヴァネッサ"  time="1000"  wait="true"  storage="chara/8/01.png"  width="400"  height="533"  left="478"  top="130"  reflect="false"  ]
-[tb_show_message_window  ]
+
 [tb_start_text mode=1 ]
 #謎の女
 随分と派手に邪魔してくれたね、お宅。[p]
