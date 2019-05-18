@@ -110,13 +110,13 @@
 
 [_tb_end_text]
 
-[mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
+[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
 [bg  time="1000"  method="crossfade"  storage="BG/TSU413002_TP_V.jpg"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
+
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #
-
 アメリカ、某所……[p]
 [_tb_end_text]
 
