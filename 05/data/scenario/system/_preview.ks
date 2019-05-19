@@ -1,0 +1,5 @@
+[hidemenubutton] 
+[preload  storage="./data/bgimage/BG/back_5-1.jpg"  ]
+[preload  storage="./data/bgimage/BG/KAZ20181201000_TP_V.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/03.png"  ]
+[return] 
