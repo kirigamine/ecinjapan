@@ -86,6 +86,7 @@
 
 [chara_show  name="ジェラルディン"  time="500"  wait="true"  storage="chara/6/04.png"  width="400"  height="533"  ]
 [tb_start_text mode=1 ]
+#ジェラルディン
 アンタの大好きな女の子達に囲まれて死ぬなんて光栄だと思わないかい、ダーヴィド・レーヴェンヒェルム！[p]
 [_tb_end_text]
 
