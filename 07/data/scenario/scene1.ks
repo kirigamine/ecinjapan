@@ -125,7 +125,7 @@
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
-[chara_show  name="ヨナタン"  time="500"  wait="true"  storage="chara/2/03.png"  width="400"  height="533"  ]
+[chara_show  name="ヨナタン"  time="500"  wait="true"  storage="chara/2/05.png"  width="400"  height="533"  ]
 [chara_show  name="ダーヴィド"  time="500"  wait="true"  storage="chara/1/05.png"  width="507"  height="533"  ]
 [tb_start_text mode=1 ]
 #ヨナタン
